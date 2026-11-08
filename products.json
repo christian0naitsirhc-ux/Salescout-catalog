@@ -1,22 +1,47 @@
 [
   {
-    "id": "001",
+    "id": "SHOPEE-001",
+    "name": "Anker Soundcore R50i True Wireless Earbuds",
+    "price": 945,
+    "image_url": "",
     "store": "Shopee",
-    "name": "Wireless Earbuds",
-    "price": 499,
-    "original_price": 799,
-    "image": "https://example.com/image.jpg",
-    "link": "https://shopee.ph/",
+    "product_url": "https://shopee.ph/Soundcore-by-Anker-R50i-True-Wireless-Earbuds-Big-Bass-Bluetooth-5.3-30H-Long-Playtime-Water-Resistant-2-Mics-for-AI-Clear-Calls-22-Preset-EQs-A3949-i.1067124429.25811843747",
     "category": "Electronics"
   },
   {
-    "id": "002",
-    "store": "Lazada",
-    "name": "Bluetooth Speaker",
-    "price": 899,
-    "original_price": 1299,
-    "image": "https://example.com/speaker.jpg",
-    "link": "https://www.lazada.com.ph/",
+    "id": "SHOPEE-002",
+    "name": "Anker Zolo Power Bank 10000mAh",
+    "price": 1595,
+    "image_url": "",
+    "store": "Shopee",
+    "product_url": "https://shopee.ph/shop/1067124429",
     "category": "Electronics"
+  },
+  {
+    "id": "LAZADA-001",
+    "name": "Anker Soundcore R50i NC Earbuds",
+    "price": 1195,
+    "image_url": "",
+    "store": "Lazada",
+    "product_url": "https://www.lazada.com.ph/tag/anker-soundcore-r50i/",
+    "category": "Electronics"
+  },
+  {
+    "id": "LAZADA-002",
+    "name": "Anker Soundcore R50i True Wireless Earbuds",
+    "price": 945,
+    "image_url": "",
+    "store": "Lazada",
+    "product_url": "https://www.lazada.com.ph/tag/anker-soundcore-r50i/",
+    "category": "Electronics"
+  },
+  {
+    "id": "SMSTORE-001",
+    "name": "Daewoo Popcorn Maker",
+    "price": 650,
+    "image_url": "",
+    "store": "The SM Store",
+    "product_url": "https://www.shopsm.com/",
+    "category": "Home Appliances"
   }
 ]
